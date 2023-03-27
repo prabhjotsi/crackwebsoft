@@ -1,0 +1,16 @@
+.img-loop{
+  max-height: 40px;
+}
+.del-btn{
+  display: inline;
+}
+.del-trash{
+  margin-top: -2px;
+}
+.img-show{
+  max-width: 150px;
+}
+.style-demo{
+  width:40%;
+  padding-left:40px;
+}
